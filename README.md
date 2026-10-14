@@ -1,6 +1,6 @@
-# Docker One Shot: Learn Docker from Zero to Full-Stack
+# One Shot Docker: Learn Docker from Zero to Full-Stack
 
-![Docker One Shot](images/00-banner.png)
+![One Shot Docker](images/00-banner.png)
 
 You clone a project, follow the README, and still lose an afternoon to "wrong Node version" or "MongoDB isn't installed". Docker exists to end that.
 
