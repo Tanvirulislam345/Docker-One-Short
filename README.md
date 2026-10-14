@@ -1,4 +1,4 @@
-# Docker One Short Blog
+# Docker One Shot
 
 ![One Shot Docker](images/00-banner.png)
 
