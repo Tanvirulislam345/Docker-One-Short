@@ -1,4 +1,4 @@
-# Docker One Shot: From Zero to Full-Stack
+# Learn Docker From Zero to Full-Stack
 
 ![Docker One Shot](images/00-banner.png)
 
