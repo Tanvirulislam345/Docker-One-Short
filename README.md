@@ -1,4 +1,4 @@
-# Learn Docker From Zero to Full-Stack
+# Docker One Short Blog
 
 ![Docker One Shot](images/00-banner.png)
 
