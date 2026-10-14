@@ -1,4 +1,4 @@
-# One Shot Docker: Learn Docker from Zero to Full-Stack
+# Docker One Short Blog
 
 ![One Shot Docker](images/00-banner.png)
 
@@ -275,7 +275,7 @@ Open `package.json` and make sure the `dev` script is `vite --host`:
 }
 ```
 
-> **Why?** By default Vite only listens on `localhost` *inside the container*. Your browser's requests come from outside the container, so Vite ignores them and the page never loads. `--host` makes Vite listen on all network interfaces, so Docker can forward your requests to it. In your own projects, change `"dev": "vite"` to `"dev": "vite --host"` (or set `server: { host: true }` in the Vite config). This repo already has it.
+> **Why?** By default Vite only listens on `localhost` _inside the container_. Your browser's requests come from outside the container, so Vite ignores them and the page never loads. `--host` makes Vite listen on all network interfaces, so Docker can forward your requests to it. In your own projects, change `"dev": "vite"` to `"dev": "vite --host"` (or set `server: { host: true }` in the Vite config). This repo already has it.
 
 ### The Dockerfile
 
